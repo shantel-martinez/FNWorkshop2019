@@ -38,6 +38,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 | TaQsd1  | Qsd1**b**    | TaA          | 5A   | 432,446,370  | 432,446,370  | TraesCS5D01G224200                        | Onishi et al., 2017    | [12864_2017_3880_MOESM2_ESM.zip](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-017-3880-6/MediaObjects/12864_2017_3880_MOESM2_ESM.zip) |
 |         |          | TaB          | 5B   | 387,744,682  | 387,740,080  | TraesCS5B01G214700                        |                        |                                                              |
 |         |          | TaD          | 5D   | 332,043,225  | 332,043,225  | TraesCS5D01G224200                        |                        |                                                              |  
+
 **a** RefSeqv1.0 maps TaMKK3-A to the unknown chrm, however based on previous research, TaMKK3-A should be between TraesCS4A01G314700 and TraesCS4A01G314800 
 **b** the ortholog of the barley dormancy gene HvQsd1. The Onishi et al. 2017 study compared sequence of dormant and non-dormant lines, however further work needs to be published to see if TaQsd1 genes effect seed dormancy
 
