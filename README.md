@@ -14,8 +14,8 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 
 **PHS/Dormancy Genes and RefSeqv1.0 Positions**   
 
-| Gene    |  |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name                      | Reference              | Gene_Sequence                                                |
-| ------- | -------- | ------------ | ---- | ------------ | ------------ | ----------------------------------------- | ---------------------- | ------------------------------------------------------------ |
+| Gene   |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name     | Reference        | Gene_Sequence                |
+| ------- | ------------ | ---- | ------------ | ------------ | ----------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | TaSdr Sdr  | TaSdr-A1     | 2A   | 158,452,164  | 158,453,676  | TraesCS2A01G191400                        | Zhang et al., 2014     | [KF021988](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021988?filetype=html) |
 |   | TaSdr-B1     | 2B   | 200,574,062  | 200,572,560  | TraesCS2B02G215300                        |                        | [KF021990](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021990?filetype=html) |
 |   | TaSdr-D1     | 2D   | 142,668,463  | 142,666,958  | TraesCS2D01G196200                        |                        | [KF021992](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021992?filetype=html) |
