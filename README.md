@@ -6,13 +6,14 @@ Pacific Northwest Quality Council | Portland, OR
 [Slide deck](Link_to_Slide_Deck) | Slide deck as [PDF](Link_To_PDF) 
 
 ## PNW GWAS Publication  
-The presentation above has been [published](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full) by Frontiers in Plant Science an open-sourced article.   
+The majority of the presentation above has been [published](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full) by Frontiers in Plant Science an open-sourced article.   
 Martinez SA, Godoy J, Huang M, et al (2018) Genome-wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Front Plant Sci 9:1–16. [doi: 10.3389/fpls.2018.00141](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)     
 
 ## Resources  
-The Falling Numbers [Website](http://steberlab.org/project7599.php)  
+[The Falling Numbers Website](http://steberlab.org/project7599.php)  
 
-**PHS/Dormancy Genes and RefSeqv1.0 Positions**   
+**PHS/Dormancy Genes and RefSeqv1.0 Positions**    
+A number of genes have been cloned and characterized in wheat for PHS tolerance or grain dormancy. Since the wheat reference genome is now be [publically available](https://www.wheatgenome.org/News/Latest-news/Reference-Sequence), the gene sequence of the PHS genes were BLASTed against the RefSeqv1.0 alignment. Below are the estimated start and end positions based on the gene sequences available by the authors, in the publication, or public databases. The positions and links to the gene sequences may be useful to cross-reference with future PHS QTL or GWAS analyses.  
 
 | Gene   |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name     | Reference        | Gene_Seq            |
 | ------- | ------------ | ---- | ------------ | ------------ | ----------------------------------------- | ---------------------- | ------------------------------------------------------------ |
