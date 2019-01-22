@@ -40,7 +40,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 **b** the ortholog of the barley dormancy gene HvQsd1. The Onishi et al. 2017 study compared sequence of dormant and non-dormant lines, however further work needs to be published to see if TaQsd1 genes effect seed dormancy
 
 ## Research Funding   
-PNW GWAS Research: 
+Washington State University Research: 
 > WA Grain Commission Projects: 7599, 5389, and 126593   
 > USDA NIFA Projects: 2015-05798, and 2016-68004-24770   
 > USDA ARS Project: 424575
