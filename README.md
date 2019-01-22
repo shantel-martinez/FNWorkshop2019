@@ -7,6 +7,6 @@ Pacific Northwest Quality Council | Portland, OR
 
 ## PNW GWAS Publication
 The presentation above has been published by Frontiers in Plant Science an open-sourced article.   
-**[Martinez SA, Godoy J, Huang M, et al (2018) Genome-wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Front Plant Sci 9:1–16. doi: 10.3389/fpls.2018.00141](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)**    
+[Martinez SA, Godoy J, Huang M, et al (2018) Genome-wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Front Plant Sci 9:1–16. doi: 10.3389/fpls.2018.00141](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full)     
 
 ## Resources
