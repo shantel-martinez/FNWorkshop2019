@@ -19,7 +19,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 | TaSdr /    Sdr  | TaSdr-A1     | 2A   | 158,452,164  | 158,453,676  | TraesCS2A01G191400                        | Zhang et al., 2014     | [KF021988](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021988?filetype=html) |
 |   | TaSdr-B1     | 2B   | 200,574,062  | 200,572,560  | TraesCS2B02G215300                        |                        | [KF021990](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021990?filetype=html) |
 |   | TaSdr-D1     | 2D   | 142,668,463  | 142,666,958  | TraesCS2D01G196200                        |                        | [KF021992](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021992?filetype=html) |
-| Tamyb10   R  | R-A1         | 3A   | 703,906,112  | 703,904,221  | - | Himi et al., 2011      | [AB599721](https://www.ebi.ac.uk/ena/data/view/AB599721)               |
+| Tamyb10 /  R  | R-A1         | 3A   | 703,906,112  | 703,904,221  | - | Himi et al., 2011      | [AB599721](https://www.ebi.ac.uk/ena/data/view/AB599721)               |
 |   | R-B1         | 3B   | 757,917,663  | 757,920,399  | TraesCS3B01G515900                        |                        | [AB191459](https://www.ebi.ac.uk/ena/data/view/AB191459)                 |
 |    | R-D1         | 3D   | 570,799,694  | 570,803,366  | TraesCS3D01G468400                        |                        | [AB191460](https://www.ebi.ac.uk/ena/data/view/AB191460)                 |
 | TaVp-1 / Vp1      | TaVP-1A      | 3A   | 659,556,434  | 659,552,099  | TraesCS3A01G417300                        | Yang et al., 2014      | [Vp-1A](https://www.ncbi.nlm.nih.gov/gene/?term=Vp-1A) |
