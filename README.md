@@ -26,9 +26,6 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 |         |          | TaVP-1B      | 3B   | 693,342,691  | 693,338,300  | TraesCS3B01G452200                        |                        | [AJ400713](http://getentry.ddbj.nig.ac.jp/getentry/na/AJ400713?filetype=html) |
 |         |          | TaVP-1D      | 3D   | 525,473,897  | 525,469,502  | TraesCS3D01G412800                        |                        | [AJ400714](http://getentry.ddbj.nig.ac.jp/getentry/na/AJ400714?filetype=html) |
 | TaPHS1  | TaMFT    | TaMFT-3A     | 3A   | 7,294,362    | 7,297,912    | TraesCS3A02G006600                        | Nakamura et al., 2011  | [G1UE17 ](https://www.uniprot.org/uniprot/G1UE17)                       |
-|         |          | TaMFT-3B-1   | 3B   |              |              |                                           |                        | [AB924661](http://getentry.ddbj.nig.ac.jp/getentry/na/AB924661?filetype=html) |
-|         |          | TaMFT-3B-2   | 3B   |              |              |                                           |                        | [AB924662](http://getentry.ddbj.nig.ac.jp/getentry/na/AB924662?filetype=html) |
-|         |          | TaMFT-3D     | 3D   |              |              |                                           |                        | [AB924663](http://getentry.ddbj.nig.ac.jp/getentry/na/AB924663?filetype=html) |
 | TaDOG1  |          | TaDOG1L4     | 3A   | 67,123,800   | 67,124,332   | TraesCS3A01G103500                        | Ashikawa et al., 2013? | [AB555729](https://www.ebi.ac.uk/ena/data/view/AB555729)                 |
 |         |          |              | 3B   | 91,147,446   | 91,147,986   | TraesCS3B01G120900                        |                        |                                                              |
 |         |          |              | 3D   | 58,107,736   | 58,108,268   | TraesCS3D01G105800                        |                        |                                                              |
@@ -39,7 +36,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 |         |          | TaB          | 5B   | 387,744,682  | 387,740,080  | TraesCS5B01G214700                        |                        |                                                              |
 |         |          | TaD          | 5D   | 332,043,225  | 332,043,225  | TraesCS5D01G224200                        |                        |                                                              |  
 
-**a** RefSeqv1.0 maps TaMKK3-A to the unknown chrm, however based on previous research, TaMKK3-A should be between TraesCS4A01G314700 and TraesCS4A01G314800 
+**a** RefSeqv1.0 maps TaMKK3-A to the unknown chrm, however based on previous research, TaMKK3-A should be between TraesCS4A01G314700 and TraesCS4A01G314800   
 **b** the ortholog of the barley dormancy gene HvQsd1. The Onishi et al. 2017 study compared sequence of dormant and non-dormant lines, however further work needs to be published to see if TaQsd1 genes effect seed dormancy
 
 ## Research Funding   
