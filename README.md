@@ -26,13 +26,13 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 |         |          | TaVP-1B      | 3B   | 693,342,691  | 693,338,300  | TraesCS3B01G452200                        |                        | [AJ400713](http://getentry.ddbj.nig.ac.jp/getentry/na/AJ400713?filetype=html) |
 |         |          | TaVP-1D      | 3D   | 525,473,897  | 525,469,502  | TraesCS3D01G412800                        |                        | [AJ400714](http://getentry.ddbj.nig.ac.jp/getentry/na/AJ400714?filetype=html) |
 | TaPHS1  | TaMFT    | TaMFT-3A     | 3A   | 7,294,362    | 7,297,912    | TraesCS3A02G006600                        | Nakamura et al., 2011  | [G1UE17 ](https://www.uniprot.org/uniprot/G1UE17)                       |
-| TaDOG1  |          | TaDOG1L4     | 3A   | 67,123,800   | 67,124,332   | TraesCS3A01G103500                        | Ashikawa et al., 2013? | [AB555729](https://www.ebi.ac.uk/ena/data/view/AB555729)                 |
+| TaDOG1  |          | TaDOG1L4     | 3A   | 67,123,800   | 67,124,332   | TraesCS3A01G103500                        | Ashikawa et al., 2013 | [AB555729](https://www.ebi.ac.uk/ena/data/view/AB555729)                 |
 |         |          |              | 3B   | 91,147,446   | 91,147,986   | TraesCS3B01G120900                        |                        |                                                              |
 |         |          |              | 3D   | 58,107,736   | 58,108,268   | TraesCS3D01G105800                        |                        |                                                              |
-| TaMKK3  | Phs-1    | TaMKK3-A     | 4A   | 605,019,000a | 605,023,000a | TraesCSU01G167000                         | Torada et al., 2016    | [LC091368](http://getentry.ddbj.nig.ac.jp/getentry/na/LC091368?filetype=html) |
+| TaMKK3  | Phs-1    | TaMKK3-A     | 4A   | 605,019,000 **a** | 605,023,000 | TraesCSU01G167000                         | Torada et al., 2016    | [LC091368](http://getentry.ddbj.nig.ac.jp/getentry/na/LC091368?filetype=html) |
 |         |          | TaMKK3-B     | 5B   | 710,226,100  | 710,230,860  | TraesCS5B01G565100                        |                        |                                                              |
 |         |          | TaMKK3-D     | 5D   | 556,557,389  | 556,553,063  | TraesCS5D01G549600                        |                        | [LC091372](http://getentry.ddbj.nig.ac.jp/getentry/na/LC091372?filetype=html) |
-| TaQsd1  | Qsd1**b**    | TaA          | 5A   | 432,446,370  | 432,446,370  | TraesCS5D01G224200                        | Onishi et al., 2017    | [12864_2017_3880_MOESM2_ESM.zip](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-017-3880-6/MediaObjects/12864_2017_3880_MOESM2_ESM.zip) |
+| TaQsd1  | Qsd1 **b**    | TaA          | 5A   | 432,446,370  | 432,446,370  | TraesCS5D01G224200                        | Onishi et al., 2017    | [12864_2017_3880_MOESM2_ESM.zip](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-017-3880-6/MediaObjects/12864_2017_3880_MOESM2_ESM.zip) |
 |         |          | TaB          | 5B   | 387,744,682  | 387,740,080  | TraesCS5B01G214700                        |                        |                                                              |
 |         |          | TaD          | 5D   | 332,043,225  | 332,043,225  | TraesCS5D01G224200                        |                        |                                                              |  
 
@@ -40,3 +40,13 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 **b** the ortholog of the barley dormancy gene HvQsd1. The Onishi et al. 2017 study compared sequence of dormant and non-dormant lines, however further work needs to be published to see if TaQsd1 genes effect seed dormancy
 
 ## Research Funding   
+PNW GWAS Research: 
+> WA Grain Commission Projects: 7599, 5389, and 126593   
+> USDA NIFA Projects: 2015-05798, and 2016-68004-24770   
+> USDA ARS Project: 424575
+
+Cornell University Research: 
+> USDA NIFA Project: 2017-07109
+
+FN Workshop:  
+>  Project:   
