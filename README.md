@@ -14,7 +14,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 
 **PHS/Dormancy Genes and RefSeqv1.0 Positions**   
 
-| Gene   |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name     | Reference        | Gene_Sequence                |
+| Gene   |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name     | Reference        | Gene_Seq            |
 | ------- | ------------ | ---- | ------------ | ------------ | ----------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | TaSdr Sdr  | TaSdr-A1     | 2A   | 158,452,164  | 158,453,676  | TraesCS2A01G191400                        | Zhang et al., 2014     | [KF021988](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021988?filetype=html) |
 |   | TaSdr-B1     | 2B   | 200,574,062  | 200,572,560  | TraesCS2B02G215300                        |                        | [KF021990](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021990?filetype=html) |
@@ -32,7 +32,7 @@ The Falling Numbers [Website](http://steberlab.org/project7599.php)
 | TaMKK3  Phs-1    | TaMKK3-A     | 4A   | 605,019,000 **a** | 605,023,000 | TraesCSU01G167000                         | Torada et al., 2016    | [LC091368](http://getentry.ddbj.nig.ac.jp/getentry/na/LC091368?filetype=html) |
 |   | TaMKK3-B     | 5B   | 710,226,100  | 710,230,860  | TraesCS5B01G565100                        |                        |                                                              |
 |   | TaMKK3-D     | 5D   | 556,557,389  | 556,553,063  | TraesCS5D01G549600                        |                        | [LC091372](http://getentry.ddbj.nig.ac.jp/getentry/na/LC091372?filetype=html) |
-| TaQsd1  Qsd1 **b**    | TaA          | 5A   | 432,446,370  | 432,446,370  | TraesCS5D01G224200                        | Onishi et al., 2017    | [MOESM2_ESM](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-017-3880-6/MediaObjects/12864_2017_3880_MOESM2_ESM.zip) |
+| TaQsd1  Qsd1 **b**    | TaA          | 5A   | 432,446,370  | 432,446,370  | TraesCS5D01G224200                        | Onishi et al., 2017    | [Qsd1](https://static-content.springer.com/esm/art%3A10.1186%2Fs12864-017-3880-6/MediaObjects/12864_2017_3880_MOESM2_ESM.zip) |
 |    | TaB          | 5B   | 387,744,682  | 387,740,080  | TraesCS5B01G214700                        |                        |                                                              |
 |   | TaD          | 5D   | 332,043,225  | 332,043,225  | TraesCS5D01G224200                        |                        |                                                              |  
 
