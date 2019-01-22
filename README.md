@@ -13,6 +13,7 @@ Martinez SA, Godoy J, Huang M, et al (2018) Genome-wide Association Mapping for 
 The Falling Numbers [Website](http://steberlab.org/project7599.php)  
 
 **PHS/Dormancy Genes and RefSeqv1.0 Positions**   
+
 | Gene    |  |  | Chrm | Pos_Start    | Pos_End      | RefSeqv1.0_Gene_Name                      | Reference              | Gene_Sequence                                                |
 | ------- | -------- | ------------ | ---- | ------------ | ------------ | ----------------------------------------- | ---------------------- | ------------------------------------------------------------ |
 | TaSdr   | Sdr      | TaSdr-A1     | 2A   | 158,452,164  | 158,453,676  | TraesCS2A01G191400                        | Zhang et al., 2014     | [KF021988](http://getentry.ddbj.nig.ac.jp/getentry/na/KF021988?filetype=html) |
