@@ -1,7 +1,7 @@
 # Falling Number Workshop 2019  
 Pacific Northwest Quality Council | Portland, OR  
 
-![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png)
+[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png)](Link_To_PDF)
 
 Download [PDF](Link_To_PDF) | PDF [with notes](Link_To_PDF_Notes) 
 
