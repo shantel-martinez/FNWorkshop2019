@@ -1,9 +1,9 @@
 # Falling Number Workshop 2019  
 Pacific Northwest Quality Council | Portland, OR  
 
-[![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png)](link_to_Slides)
+![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png)
 
-[PDF](Link_To_PDF) | [PDF with notes](Link_To_PDF_Notes) 
+Download [PDF](Link_To_PDF) | PDF [with notes](Link_To_PDF_Notes) 
 
 ## PNW PHS GWAS Publication  
 The majority of the presentation above has been [published](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full) by Frontiers in Plant Science as an open-sourced article.   
