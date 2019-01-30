@@ -12,7 +12,7 @@ The majority of the presentation above has been [published](https://www.frontier
 ## Top 6 PHS QTL 
 The QTL identified in Martinez et al., 2018 that were significant in more than one environment for spike-wetting tests.   
 
-| QTL            | Index    | Name                        | Chr   | Pos_Start   | Pos_End     | Environment                | Favorable Allele | Primer_1                  | Primer_2                  | Primer_C                 |
+| QTL for PHS           | Index    | Name                        | Chr   | Pos_Start   | Pos_End     | Environment                | Favorable Allele | Primer_1                  | Primer_2                  | Primer_C                 |
 | -------------- | -------- | --------------------------- | ----- | ----------- | ----------- | -------------------------- | ---------------- | ------------------------- | ------------------------- | ------------------------ |
 | QPHS.wsu-1A.2  | IWB6759  | BS00021780_51               | 1A    | 591,950,221 | 591,950,321 | P14 d3                     | A/G              | acacgacACcaagtgcacA       | acacgacACcaagtgcacG       | ccttcagttgtgagctGtgaG    |
 |                | IWB77968 | wsnp_Ex_c3887_7051325       | 1A    | -           | -           | P14 d3                     | A/G              | gActCgcCataacTtttgttTcA   | gActCgcCataacTtttgttTcG   | acagagatggaccaacctgG     |
