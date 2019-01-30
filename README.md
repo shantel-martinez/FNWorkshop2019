@@ -9,7 +9,7 @@ Download [PDF](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SM
 The majority of the presentation above has been [published](https://www.frontiersin.org/articles/10.3389/fpls.2018.00141/full) by Frontiers in Plant Science as an open-sourced article.   
 > Martinez SA, Godoy J, Huang M, et al (2018) Genome-wide Association Mapping for Tolerance to Preharvest Sprouting and Low Falling Numbers in Wheat. Front Plant Sci 9:1–16. doi: 10.3389/fpls.2018.00141 
 
-## Top 6 PHS QTL 
+## Top PHS QTL 
 The QTL identified in Martinez et al., 2018 that were significant in more than one environment for spike-wetting tests.   
 
 | QTL_VisibleSprout | Index    | Name                        | Chr   | Pos_Start   | Pos_End     | Environment                | Favorable Allele | Primer_1                  | Primer_2                  | Primer_C                 |
