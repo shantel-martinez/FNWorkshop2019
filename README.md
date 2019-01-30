@@ -29,9 +29,9 @@ The QTL identified in Martinez et al., 2018 that were significant in more than o
 | QPHS.wsu-6D*   | IWB49280 | Kukri_rep_c107605_164       | 6D    | -           | -           | P15 d7                     | **A**/G              | GgctgaatggTtgaagtttgataaT | GgctgaatggTtgaagtttgataaC | caaagcatgaaagaaagggagT   |
 | QPHS.wsu-7B.2* | IWB7099  | BS00022463_51               | 7B    | 608,810,414 | 608,810,514 | C14 d5, C14 SI, P16 SI     | A/**G**              | gtcagacatgaaagtagttgactcA | gtcagacatgaaagtagttgactcG | tgtaGccagtttcctttgtctcC  |
 
-Chr, Pos_Start, and Pos_End are locations of the Illumina 90k SNP probe alignment to the RefSeqv1.0 alignment. Note that some probes may aligned to more than one chromosome, however reported above are the loactions with the highest identity.
-Favorable alleles for decreased visible sprouting are shown in BOLD
-The Illumina 90k SNP array sequences were ran against the PolyMarker software to create [KASP markers](http://polymarker.tgac.ac.uk/Markdown?md=DesignedPrimers) for the majority of the array. KASP Marker sequences are shown bove indicated by Primer_1, Primer_2, and Primer_C.      
+Chr, Pos_Start, and Pos_End are locations of the Illumina 90k SNP probe alignment to the RefSeqv1.0 alignment. Note that some probes may aligned to more than one chromosome, however reported above are the loactions with the highest identity.  
+Favorable alleles for decreased visible sprouting are shown in BOLD  
+The Illumina 90k SNP array sequences were ran against the PolyMarker software to create [KASP markers](http://polymarker.tgac.ac.uk/Markdown?md=DesignedPrimers) for the majority of the array. KASP Marker sequences are shown bove indicated by Primer_1, Primer_2, and Primer_C.       
 
 ## Resources  
 **The Falling Numbers** [**Website**](http://steberlab.org/project7599.php)  
