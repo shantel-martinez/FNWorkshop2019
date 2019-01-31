@@ -3,7 +3,7 @@ Pacific Northwest Quality Council | Portland, OR
 
 [![FN_talk_slides](https://github.com/shantel-martinez/Lab_Resources/blob/master/example_img/SMartinez%20FN%20Workshop%2001.30.2019.png)](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf)
 
-**For Mobile Devices: switch ti desktop view to download**. 
+**For Mobile Devices: switch to desktop view to download**. 
 Download [PDF](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019.pdf) | PDF [with notes](https://github.com/shantel-martinez/FNWorkshop2019/blob/master/SMartinez%20FN%20Workshop%2001.30.2019%20Notes.pdfs) 
 
 ## PNW PHS GWAS Publication  
